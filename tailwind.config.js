@@ -27,3 +27,9 @@ module.exports = {
   plugins: [],
 }
 
+git add README.md
+git commit -m "practicing tailwind. its quite simple"
+git branch -M main
+git remote add origin https://github.com/tyke01/tailwindcss-practice.git
+git push -u origin main
+
